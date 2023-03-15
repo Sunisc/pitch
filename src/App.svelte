@@ -1,18 +1,17 @@
 <script lang="ts">
   let noteCount = 0;
   let octave = 0;
-  
 </script>
 
 <main>
-  <div>  
+  <div>
     Note range
-    <input type="text">
+    <input type="text" />
   </div>
   <div>
     Note count
-    <input type="text">
-  </div>  
+    <input type="text" />
+  </div>
 </main>
 
 <style>
